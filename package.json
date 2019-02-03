@@ -14,6 +14,7 @@
   "author": "Chan",
   "license": "MIT",
   "dependencies": {
+    "aws-sdk": "^2.395.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.2",
     "concurrently": "^3.5.1",
@@ -23,6 +24,7 @@
     "mongoose": "^5.0.12",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
+    "uuid": "^3.3.2",
     "validator": "^9.4.1"
   },
   "devDependencies": {
